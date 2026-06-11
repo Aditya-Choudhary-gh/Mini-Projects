@@ -22,3 +22,19 @@ A simple command-line calculator built using Python.
 
 ## Tech Used
 - Python
+
+## 2. Number Guessing Game
+
+A simple number guessing game built using Python where the player tries to guess a randomly generated number within limited attempts.
+
+## Features
+
+- Random number generation  
+- Limited attempts system  
+- Remaining tries display  
+- Win/Lose conditions  
+- User input handling  
+
+## Tech Used
+
+- Python
